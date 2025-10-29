@@ -5,8 +5,6 @@ description: This resource contains information about elctromemrane processes,th
 file: /courses/2-500-desalination-and-water-purification-spring-2009/11eabf8f519da37cf1ff94f3bf1767c6_MIT2_500s09_read06_read12.pdf
 file_size: 1455166
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

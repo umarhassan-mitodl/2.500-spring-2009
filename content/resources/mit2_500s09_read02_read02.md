@@ -4,8 +4,6 @@ description: This resource contains information about temperature, salinity, and
 file: /courses/2-500-desalination-and-water-purification-spring-2009/2d19e2122b6106988f2c2a013fc6baf7_MIT2_500s09_read02_read02.pdf
 file_size: 262315
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

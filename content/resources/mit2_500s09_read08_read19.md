@@ -5,8 +5,6 @@ description: This resource contains information about vapor compression distilla
 file: /courses/2-500-desalination-and-water-purification-spring-2009/e6507a6714a7a88d474f6435a02ece9d_MIT2_500s09_read08_read19.pdf
 file_size: 892270
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

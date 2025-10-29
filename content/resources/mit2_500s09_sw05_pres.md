@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-500-desalination-and-water-purification-spring-2009/889e5c6f34d6002bafa36e83d8cc8706_MIT2_500s09_sw05_pres.pdf
 file_size: 523199
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
